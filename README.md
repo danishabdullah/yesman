@@ -1,4 +1,4 @@
 yesman
 ======
 
-A python yeoman!
+A pythonic yeoman!
